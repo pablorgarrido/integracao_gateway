@@ -1,0 +1,20 @@
+{
+  "name": "integracao_gateway",
+  "version": "1.0.0",
+  "description": "These libraries were developed to facilitate the development of our customers.\r The customer has the freedom to import into their projects, use them as they are or make changes to suit their business.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablorgarrido/integracao_gateway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablorgarrido/integracao_gateway/issues"
+  },
+  "homepage": "https://github.com/pablorgarrido/integracao_gateway#readme"
+}
